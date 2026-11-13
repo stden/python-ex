@@ -1,0 +1,5 @@
+[tools]
+python = "3.13.18"
+
+[tasks.check]
+run = "git diff --check"
